@@ -11,10 +11,10 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Sylvain Ramousse"
-      introSubtitle = "40 y/o VP of Products @ Sendinblue, I love products, and I do products"
-      #introPhoto = "/Avatar.png"
-      #logo = "/avatar.png"
+      #introTitle = "Hey! I'm Sylvain Ramousse"
+      #introSubtitle = "40 y/o VP of Products @ Sendinblue, I love products, and I do products"
+      introPhoto = "/empty.png"
+      logo = "/empty.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -42,8 +42,8 @@ DefaultContentLanguageInSubdir = true
     [languages.fr.params]
       # introTitle = "Salut! Je suis Katheryn Fox"
       # introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      # introPhoto = "/picture.jpg"
-      # logo = "/blist-logo.png"
+       introPhoto = "/empty.png"
+       logo = "/empty.png"
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
