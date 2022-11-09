@@ -18,12 +18,17 @@ DefaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 1
+        weight = 2
 
     [[languages.en.menu.main]]
         name = "About"
         url = "page/about/"
-        weight = 2
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Home"
+        url = "https://ramousse.com"
+        weight = 1
     
   [languages.fr]
     contentDir = "content/fr" #French
@@ -32,15 +37,21 @@ DefaultContentLanguageInSubdir = true
     [languages.fr.params]
         introPhoto = "/empty.png"
       # logo = "/empty.png"
+
+    [[languages.en.menu.main]]
+        name = "Home"
+        url = "https://ramousse.com"
+        weight = 1
+
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 1
+        weight = 2
 
     [[languages.fr.menu.main]]
         name = "À propos"
         url = "page/about/"
-        weight = 2
+        weight = 3
 
 
   
