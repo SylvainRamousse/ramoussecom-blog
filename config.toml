@@ -38,7 +38,7 @@ DefaultContentLanguageInSubdir = true
         introPhoto = "/empty.png"
       # logo = "/empty.png"
 
-    [[languages.en.menu.main]]
+    [[languages.fr.menu.main]]
         name = "Home"
         url = "https://ramousse.com"
         weight = 1
