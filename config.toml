@@ -9,7 +9,7 @@ DefaultContentLanguageInSubdir = true
   [languages.en]
     contentDir = "content/en" #English
     weight = 1
-    languageName = ":usa:"
+    languageName = "English"
     [languages.en.params]
       #introTitle = "Hey! I'm Sylvain Ramousse"
       #introSubtitle = "40 y/o VP of Products @ Sendinblue, I love products, and I do products"
@@ -28,7 +28,7 @@ DefaultContentLanguageInSubdir = true
   [languages.fr]
     contentDir = "content/fr" #French
     weight = 1
-    languageName = ":fr:"
+    languageName = "French"
     [languages.fr.params]
         introPhoto = "/empty.png"
       # logo = "/empty.png"
