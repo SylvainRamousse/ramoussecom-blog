@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Sylvain Ramousse"
       introSubtitle = "40 y/o VP of Products @ Sendinblue, I love products, and I do products"
-      introPhoto = "/Avatar.png"
+      #introPhoto = "/Avatar.png"
       #logo = "/avatar.png"
     [[languages.en.menu.main]]
         name = "Blog"
